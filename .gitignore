@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables
+.env
+**/.env
+
+# Build
+dist/
+**/dist/
+
+# Logs
+*.log
+
+# Temporary files
+temp.js
+temp.md
+
+# VS Code
+.vscode/
