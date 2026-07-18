@@ -1,4 +1,4 @@
-# AI Code Reviewer
+# AI Powered Code Review and Analysis System
 
 An AI-powered code review assistant that helps developers analyze their code, identify potential issues, and receive improvement suggestions using Google's Gemini AI. The application provides automated feedback to improve code quality, readability, and efficiency.
 
