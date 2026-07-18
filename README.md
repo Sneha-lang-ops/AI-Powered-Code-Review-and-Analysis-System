@@ -4,7 +4,7 @@ An AI-powered code review assistant that helps developers analyze their code, id
 
 ## Overview
 
-AI Code Reviewer is a full-stack web application that integrates Generative AI capabilities into the software development workflow. It allows users to submit code snippets and receive AI-generated reviews, including possible bugs, optimization suggestions, and best practices.
+AI Powered Code Review and Analysis System is a full-stack web application that integrates Generative AI capabilities into the software development workflow. It allows users to submit code snippets and receive AI-generated reviews, including possible bugs, optimization suggestions, and best practices.
 
 The goal of this project is to reduce manual code review effort and provide instant intelligent feedback to developers.
 
